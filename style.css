@@ -1,0 +1,121 @@
+body {background-image: url('48.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+header {
+  background-color: black;
+  padding: 1px;
+  text-align: center;
+  font-size: 6px;
+  color: white;
+}
+footer {
+  background-color: black;
+  padding: 1px;
+  text-align: center;
+  font-size: 9px;
+  color: white;
+}
+
+form {
+  text-align: center;
+  right: 230px;
+}
+input { 
+  text-align: center;
+  border  : 1px  solid blue ;
+  padding : 4px ;
+  margin: 4px;  
+  border: 2px solid powderblue;
+  width:90%;
+}
+textarea{
+
+  border: 2px solid  powderblue; 
+}
+label {   
+  text-align: center;
+  padding : 10px ;
+  color: #ffffff;
+}
+table {
+  text-align: center;
+  border-collapse: collapse;
+  width: 16%;
+}
+#project {
+  margin: -100px -5px 100px 460px;
+}
+button {
+  background-color: rgb(32, 32, 107);
+  color : wheat ;
+}
+a{
+  text-align: left ; 
+
+}
+.example_b {
+  position:relative; 
+    text-align:  left;
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #2d1b38;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  border: none;
+  transition: all 0.4s ease 0s;
+  position:relative; left: -500px; top:2px;
+  }
+  .example_b:hover {
+    text-shadow: 0px 0px 6px rgb(255, 220, 255) ;
+    -webkit-box-shadow: 0px 5px 20px -100px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
+    transition: all 0.4s ease 0s;
+    }
+    .example_a {
+      position:relative; 
+        text-align:  left;
+      color: #fff !important;
+      text-transform: uppercase;
+      text-decoration: none;
+      background: #2d1b38;
+      padding: 10px;
+      border-radius: 10px;
+      display: inline-block;
+      border: none;
+      transition: all 0.4s ease 0s;
+      position:relative; left : 80px; top:2px;
+      }
+      .example_a:hover { 
+          text-shadow: 0px 0px 6px rgb(255, 220, 255);
+          -webkit-box-shadow: 0px 5px 20px -100px rgba(0,0,0,0.57);
+          -moz-box-shadow: 0px 5px 20px -10px rgba(0,0,0,0.57);
+          transition: all 0.4s ease 0s;
+          }
+
+        .sub {
+            color: #fff !important;
+            position:relative; 
+            text-transform: uppercase;
+            text-decoration: none;
+            background: #0c0236;
+            top: 0px; 
+            padding: 10px;
+            border-radius: 50px;
+            display: inline-block;
+            right: 219px;
+            font-size: 15px;
+            text-align: center;
+            border: none;
+            transition: all 0.4s ease 0s;
+            }
+            .sub:hover {
+              text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+              -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+              -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+              transition: all 0.4s ease 0s;
+              }
